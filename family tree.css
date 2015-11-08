@@ -1,0 +1,75 @@
+/* add reminder box: */
+background: #00ACC1;
+box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.12), 0px 2px 2px 0px rgba(0,0,0,0.24);
+border-radius: 2px;
+/* Add Reminder: */
+font-family: AvenirNext-Medium;
+font-size: 19px;
+color: #FFFFFF;
+letter-spacing: 0.53px;
+line-height: 26px;
+/* log off box: */
+background: rgba(215,215,215,0.01);
+border: 2px solid #00ACC1;
+border-radius: 8px;
+/* Log Off: */
+font-family: AvenirNext-Regular;
+font-size: 14px;
+color: #FFFFFF;
+line-height: 19px;
+/* family box: */
+background: rgba(215,215,215,0.01);
+border-radius: 8px;
+/* My Family: */
+font-family: AvenirNext-Regular;
+font-size: 14px;
+color: #FFFFFF;
+line-height: 19px;
+/* Month View: */
+font-family: AvenirNext-Regular;
+font-size: 14px;
+color: #FFFFFF;
+line-height: 19px;
+/* month box: */
+background: rgba(215,215,215,0.01);
+border-radius: 8px;
+/* Reminder box: */
+background: rgba(215,215,215,0.01);
+border-radius: 8px;
+/* My Reminders: */
+font-family: AvenirNext-Regular;
+font-size: 14px;
+color: #FFFFFF;
+line-height: 19px;
+/* Hi Alice, today is: */
+font-family: AvenirNext-Regular;
+font-size: 40px;
+color: #FFFFFF;
+line-height: 55px;
+/* Today_date: */
+background: rgba(215,215,215,0.00);
+border-radius: 8px;
+/* Duration: */
+border: 1px solid #00ACC1;
+border-radius: 8px;
+/* Frequency: */
+border: 1px solid #00ACC1;
+border-radius: 8px;
+/* Reminder text: */
+border: 1px solid #00ACC1;
+border-radius: 8px;
+/* Completed: */
+background: #FFFFFF;
+box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.50);
+border-radius: 2px;
+/* Notification: */
+background: #FFFFFF;
+box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.50);
+border-radius: 2px;
+/* Catergory icon: */
+border: 1px solid #00ACC1;
+/* Time: */
+border: 1px solid #00ACC1;
+border-radius: 8px;
+/* Row outline: */
+border-radius: 8px;
